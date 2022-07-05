@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 
-*.edf
-dataset
+*.txt
+*.mat
+*.zip
+.vscode
