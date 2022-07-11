@@ -16,6 +16,7 @@ calibration 補正ようデータ矢印を
 
 testate
 
+test/fe
 
 
 [教師データ](https://www.bbci.de/competition/iv/#dataset1)
