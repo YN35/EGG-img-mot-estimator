@@ -20,6 +20,8 @@ testate
 test0
 tetemain
 
+test
+
 
 [教師データ](https://www.bbci.de/competition/iv/#dataset1)
 
